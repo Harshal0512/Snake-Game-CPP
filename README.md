@@ -1,3 +1,13 @@
+<a href="https://discord.com/users/626431307852808220" alt="Contributors">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+        
+<a href="mailto:me@harshalkulkarni.in?subject=Contact" alt="Contact me on Gmail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        
+<a href="https://www.linkedin.com/in/harshal-05/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
 # Snake Game
  This a clone of the classic Snake Game from the days of the legendary Nokia phones.
 
@@ -10,3 +20,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
+
